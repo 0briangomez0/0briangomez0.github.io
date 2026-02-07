@@ -1,0 +1,1 @@
+unir sobre mi y inicio debajo de la foto, de fondo en zona de inicio poner imagen, retirar los recuadros blancos, crear otras "hojas" paginas y que sean unicamente inicio, servicios, en ambas paginas al final de abajo van a haber 4 iconos(imagenes) clickeables, que manden a links que modifico yo. 
